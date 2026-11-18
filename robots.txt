@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://mrmohex.github.io/portfolio/sitemap.xml
+Sitemap: https://mrmohex.github.io/sitemap.xml
